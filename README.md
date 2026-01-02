@@ -1,8 +1,6 @@
 # finall
 <!DOCTYPE html>
 <body>
-test run ofc
-
 <div class="final">
         <form>
         <input type="checkbox" name="agree">
